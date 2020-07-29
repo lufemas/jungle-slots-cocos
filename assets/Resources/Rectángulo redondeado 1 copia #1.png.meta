@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "80f41ed8-9bbd-4c82-8f23-289f71a60f5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 225,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "Rectángulo redondeado 1 copia #1": {
+      "ver": "1.0.4",
+      "uuid": "bce77ad3-6f92-4c53-9b12-476261c4b916",
+      "rawTextureUuid": "80f41ed8-9bbd-4c82-8f23-289f71a60f5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 225,
+      "height": 107,
+      "rawWidth": 225,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

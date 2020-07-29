@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8f78d52f-7d6b-4bae-a5e8-ae2ac90fa271",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 826,
+  "height": 607,
+  "platformSettings": {},
+  "subMetas": {
+    "Capa 10 copia 6": {
+      "ver": "1.0.4",
+      "uuid": "d61d8006-5830-44b9-80df-a6107f75612a",
+      "rawTextureUuid": "8f78d52f-7d6b-4bae-a5e8-ae2ac90fa271",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 826,
+      "height": 607,
+      "rawWidth": 826,
+      "rawHeight": 607,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
